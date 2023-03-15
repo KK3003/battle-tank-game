@@ -1,8 +1,7 @@
 # Battle Tank Game
 
 This is a 3D project made using Unity and C#.
-In this project I have created 3D game based on Limited Capacity theme.
-Small heads up, Player is stucked in the space with limited capacity of the oxygen and need to reach the oxygen pod before running out of the oxygen while avoiding enimies.
+This is a training project using Unity's Battle Tank base artwork. In this project I have implemented various Design Patterns and have tried to maintain a SOLID, readable code.
 ___
 ___
 # Screenshots
