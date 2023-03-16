@@ -6,7 +6,7 @@ ___
 ___
 # Screenshots
 ___
-![screenshot](/ScreenShots/1.jpg)
+![screenshot](/ScreenShots/Tank1.png)
 ___
 ![screenshot](/ScreenShots/2.jpg)
 ___
