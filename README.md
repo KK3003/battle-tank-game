@@ -14,9 +14,9 @@ ___
 ___
 ![screenshot](/ScreenShots/Tank1.png)
 ___
-![screenshot](/ScreenShots/2.jpg)
+![screenshot](/ScreenShots/Tank2.png)
 ___
-![screenshot](/ScreenShots/3.jpg)
+![screenshot](/ScreenShots/Tank3.png)
 ___
 
 
