@@ -12,11 +12,10 @@ The Patterns and principles used in this project include:
 ___
 # Screenshots
 ___
-![screenshot](/ScreenShots/Tank1.png)
+![screenshot](/Screenshots/Tank1.png)
 ___
-![screenshot](/ScreenShots/Tank2.png)
+![screenshot](/Screenshots/Tank2.png)
 ___
-![screenshot](/ScreenShots/Tank3.png)
-___
+![screenshot](/Screenshots/Tank3.png)
 
 
